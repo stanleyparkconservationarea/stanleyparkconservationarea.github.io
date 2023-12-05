@@ -1,0 +1,15 @@
+baseURL: 'https://stanleyparkconservationarea.gitlab.io'
+relativeURLs: true
+languageCode: 'en-us'
+omit_header_text: true
+sectionPagesMenu: main
+title: 'Stanley Park Conservation Area'
+theme: 'ananke'
+
+menu:
+  main:
+  - name: "About"
+    identifier: "about"
+    name: "About"
+    url: "/about"
+    weight: 20
